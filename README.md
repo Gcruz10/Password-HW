@@ -36,3 +36,11 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 
 THEN the password is either displayed in an alert or written to the page
+
+
+![alt text](./assests/images/password.png)
+
+## Github Repo
+https://github.com/Gcruz10/Password-HW
+## Password Website
+ https://gcruz10.github.io/Password-HW/
